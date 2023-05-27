@@ -13,7 +13,7 @@ Start the development server with the following command: **npm start**
 
 ## Dependencies
 
-The project relies on the following dependencies: **React**, **Google Fonts**, **Bootstrap**
+The project relies on the following dependencies: **React**, **Google Fonts**, **Bootstrap**, **Google Icons**
 
 ## License Info
 
